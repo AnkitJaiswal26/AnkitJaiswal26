@@ -72,6 +72,3 @@
     <div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=AnkitJaiswal26&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&stroke=ffff00" /></div>
   </p>
 </details>
-
-
-During my initial two months at the company, I took on a project aimed at improving the performance of behave CC tests. My main focus was to make these tests run faster by exploring parallel execution methods. I documented my findings in a Confluence article to share with the team. I also worked with Sarath and Jeet during Hack Friday to turn this idea into a practical solution for Canary, which helped us work more efficiently. I also worked on a FARM break which involved the version upgrade of moneta and some additional tasks related to that. Also, we successfully deployed the code to production. Additionally, I participated in SEPathon, where we built an application to calculate a website's carbon emissions and suggest ways to improve performance and reduce emissions.
