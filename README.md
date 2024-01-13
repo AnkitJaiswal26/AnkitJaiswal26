@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=5000&pause=1000&width=650&lines=Welcome+to+my+Github+Profile;I'm+a+Full+Stack+Developer;I'm+a+Final+Year+Computer+Engineering+Student+at+VJTI%2C+Mumbai" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=5000&pause=1000&width=650&lines=Welcome+to+my+Github+Profile;I'm+a+Full+Stack+Developer;I'm+a+Software+Developer+at+JP+Morgan+Chase+%26+Co" alt="Typing SVG" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/ankit-jaiswal-82ba591b3/" target="_blank">
