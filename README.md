@@ -217,7 +217,7 @@ A scalable URL-shortening system designed as a **system-design project**, focusi
 
 <p align="center">
   <a href="https://leetcode.com/u/jankitbb/">
-    <img src="https://img.shields.io/badge/LeetCode-jankitbb-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-jankitbb-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
   </a>
 </p>
 
@@ -228,12 +228,6 @@ Currently strengthening problem-solving skills through structured DSA preparatio
 `Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window`
 `Binary Search` `Linked Lists` `Trees` `Graphs` `Dynamic Programming`
 `Backtracking` `Greedy` `Heaps` `Stacks & Queues`
-
-### 💻 LeetCode
-
-* 🔥 **243+ problems solved**
-* 💻 Primary languages: **C++, Java & Python**
-* 🧠 Strong focus on **Dynamic Programming, Trees, Hashing and Arrays**
 
 ---
 
@@ -315,27 +309,9 @@ Currently preparing with a focus on:
 
 <p align="center">
   <img
-    src="https://github-readme-contribution-merger.vercel.app/api?users=AnkitJaiswal26&theme=github-dark"
-    alt="GitHub Contribution Graph"
+    src="https://ghchart.xqsit94.in/dark:default/AnkitJaiswal26"
+    alt="GitHub Contributions"
     width="900"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AnkitJaiswal26&show_icons=true&count_private=true&theme=algolia&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitJaiswal26&layout=compact&theme=algolia&hide_border=true"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=AnkitJaiswal26&theme=algolia&hide_border=true"
-    height="180"
   />
 </p>
 
