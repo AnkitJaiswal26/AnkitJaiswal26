@@ -14,13 +14,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-jaiswal-82ba591b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/AnkitJaiswal26" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/u/jankitbb/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -45,13 +45,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer%20II-JPMorgan%20Chase-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ETHMumbai'24-Hackathon%20Winner-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Global%20Hackathon-7th%20Place-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/3%2B%20Years-Engineering%20Experience-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Expedited-Promotion-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Global%20Hackathon-7th%20Place-orange?style=for-the-badge" />
 </p>
 
 * 🚀 **Expedited Promotion** — Promoted from Software Engineer I to Software Engineer II in ~2.5 years for strong technical execution and engineering impact.
-* 🏆 **Global Hackathon** — Secured **7th position globally** with an accessibility-focused engineering platform.
+* 🏆 **ETHMumbai'24 Hackathon Winner** — Won the **ETHMumbai 2024 hackathon**, building a blockchain/Web3 solution as part of the competition.
+* 🏆 **Global Hackathon — 7th Place** — Secured **7th position globally** with an accessibility-focused engineering platform.
+* 🎤 **JPMC DevUp** — Selected to present **Web Warden** at **JPMorgan Chase DevUp**, a highly competitive internal technology event. Approximately **60–80 abstracts were selected from 1,000+ submissions**.
 * 📜 **Patent / Invention Proposal** — Submitted an invention proposal at JPMorgan Chase.
 * ⚡ **Performance Engineering** — Reduced large-scale test execution from **25 minutes to under 2 minutes** through parallelization and infrastructure optimization.
 * ☁️ **Cloud Modernization** — Re-architected and migrated a production Fraud Service flow from on-premises infrastructure to AWS, including Kafka-based processing.
@@ -152,14 +154,31 @@ A web accessibility platform that scans websites and generates detailed **WCAG-b
 
 **Highlights**
 
-* Automated accessibility analysis using **Axe-core**
-* WCAG-based accessibility recommendations
-* Automated browser testing and analysis
-* Presented at **DevUp 2025**
-* Secured **7th position in a global hackathon**
+* 🔍 Automated accessibility analysis using **Axe-core**
+* ♿ WCAG-based accessibility recommendations
+* 🧪 Automated browser testing and analysis
+* 🎤 **Selected for presentation at JPMC DevUp** from **1,000+ abstracts**
+* 🏆 Secured **7th position globally** in a competitive hackathon
 
 **Tech:**
 `React` `Node.js` `Axe-core` `Playwright` `Lighthouse`
+
+---
+
+## 💻 CodeComp
+
+### Massively Multiplayer Programming Platform
+
+A platform designed to encourage **cloud engineering, programming and problem-solving** across engineering teams.
+
+**Highlights**
+
+* 🌐 Multiplayer programming and collaborative problem-solving
+* ☁️ Focused on **cloud engineering and developer engagement**
+* 🏗️ Built with a focus on scalable platform architecture
+
+**Focus:**
+`Cloud Engineering` `Programming` `Developer Engagement` `Platform Engineering`
 
 ---
 
@@ -182,17 +201,6 @@ A decentralized community platform built around blockchain-based identity, decen
 
 **Tech:**
 `React` `Polygon` `Tableland` `ENS` `Push Protocol` `Drand`
-
----
-
-## 💻 CodeComp
-
-### Massively Multiplayer Programming Platform
-
-Contributed to a platform designed to encourage **cloud engineering, programming and problem-solving** across engineering teams.
-
-**Focus:**
-`Cloud Engineering` `Programming` `Developer Engagement` `Platform Engineering`
 
 ---
 
