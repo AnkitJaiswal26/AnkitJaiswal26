@@ -327,6 +327,20 @@ Currently preparing with a focus on:
 
 </details>
 
+### 📈 GitHub Contributions
+
+<p align="center">
+  <i>My GitHub contribution activity is updated automatically on my profile.</i>
+</p>
+
+---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jankitbb?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
 ---
 
 <h3 align="center">
