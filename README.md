@@ -309,36 +309,58 @@ Currently preparing with a focus on:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Coding Activity
 
-<details>
-<summary><b>💻 GitHub Profile Stats</b></summary>
-
-<br/>
+## 🟩 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitJaiswal26&show_icons=true&count_private=true&theme=algolia" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitJaiswal26&show_icons=true&locale=en&layout=compact&theme=algolia" height="180px"/>
+  <img
+    src="https://github-readme-contribution-merger.vercel.app/api?users=AnkitJaiswal26&theme=github-dark"
+    alt="GitHub Contribution Graph"
+    width="900"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkitJaiswal26&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AnkitJaiswal26&show_icons=true&count_private=true&theme=algolia&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitJaiswal26&layout=compact&theme=algolia&hide_border=true"
+    height="180"
+  />
 </p>
 
-</details>
-
-### 📈 GitHub Contributions
-
 <p align="center">
-  <i>My GitHub contribution activity is updated automatically on my profile.</i>
+  <img
+    src="https://streak-stats.demolab.com/?user=AnkitJaiswal26&theme=algolia&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
 
-## 🧩 LeetCode Stats
+## 🧩 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jankitbb?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/jankitbb/">
+    <img
+      src="https://leetcard.jacoblin.cool/jankitbb?theme=dark&font=Baloo%202&border=0&radius=12"
+      alt="LeetCode Stats"
+      width="700"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/jankitbb/">
+    <img
+      src="https://leetcard.jacoblin.cool/jankitbb?theme=dark&font=Baloo%202&border=0&radius=12&ext=heatmap"
+      alt="LeetCode Activity Heatmap"
+      width="700"
+    />
+  </a>
 </p>
 
 ---
